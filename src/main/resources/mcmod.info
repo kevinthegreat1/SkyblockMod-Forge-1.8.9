@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "skyblockmod",
+    "name": "SkyblockMod",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Kevinthegreat"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

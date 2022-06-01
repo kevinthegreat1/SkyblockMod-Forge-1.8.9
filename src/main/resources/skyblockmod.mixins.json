@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.kevinthegreat.skyblockmod.mixins",
+  "refmap": "messagereplacer.refmap.json",
+  "mixins": [
+  ],
+  "verbose": true
+}
